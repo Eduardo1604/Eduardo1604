@@ -1,5 +1,5 @@
 <body>
-    <h1>¿Me perdonas si o no?</h1>
+    <h1>¿Me perdonas amorcito 😿?</h1>
     <div class="button-container">
         <button class="button" id="si-button" onclick="respuesta('si')">Sí</button>
         <button class="button" id="no-button" onclick="respuesta('no')">No</button>
